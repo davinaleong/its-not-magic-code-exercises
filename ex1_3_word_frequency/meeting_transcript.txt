@@ -1,0 +1,15 @@
+Alex: Okay so, actually, I think the main issue is that the dashboard is actually loading really slowly for clients.
+Priya: Right, right. So actually, we looked into it yesterday and it's actually the database queries that are the bottleneck.
+Marcus: Can we actually just add an index to that table? That should actually speed things up quite a bit.
+Alex: Yeah, actually that's a good point. Let's actually try that first before we do anything more complicated.
+Priya: Actually, I already started looking at it. The query is actually joining three tables and it's actually not using any indexes at all.
+Farah: So, um, what's the actual timeline for this? The client is actually asking about it again this week.
+Marcus: I think we can actually get a fix out by Thursday if we start today. Actually, maybe even Wednesday.
+Alex: Okay let's actually commit to Thursday, and if it's actually done earlier that's a nice bonus.
+Priya: Sounds good. I'll actually open a ticket right after this call so it's actually tracked properly.
+Farah: Great, thank you. I'll actually let the client know we're actually on it.
+Marcus: One more thing, actually - should we actually also look at caching for the dashboard? That could actually help long term.
+Alex: That's actually a good idea but let's actually not scope creep this. Let's actually fix the index issue first.
+Priya: Agreed. Caching is actually a bigger project and we should actually plan it separately.
+Farah: Okay, actually sounds like we have a plan. Index fix by Thursday, caching discussion actually next sprint.
+Alex: Perfect. Thanks everyone, this was actually a productive call.

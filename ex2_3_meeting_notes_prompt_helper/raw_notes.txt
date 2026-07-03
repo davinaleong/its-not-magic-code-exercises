@@ -1,0 +1,10 @@
+proj: website redesign
+attendees: alex, priya, marcus, farah
+discussed - homepage layout still not final, priya to send 2 options by fri
+budget - slightly over, need approval from finance for extra 3k for stock photos
+timeline - launch pushed from aug 15 to aug 29, dev team needs more QA time
+action - marcus to update timeline doc
+action - farah to email finance re: budget approval
+action - alex to review priya's 2 layout options by mon
+open question - do we need a separate mobile design or is responsive enough?
+next meeting - next fri 2pm
